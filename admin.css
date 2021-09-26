@@ -1,0 +1,41 @@
+a.change{
+  color: white;
+  white-space: nowrap;
+ text-decoration: none;
+ margin: 20px 20px;
+}
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background: #D4D4D4;
+
+}
+.up{
+ background: #059862;
+ height: 140px;
+}
+.value{
+    margin-left:11%;
+    margin-top: 2%;
+}
+input[type = "submit"]{
+  background: red;
+  border: 1px solid white;
+  padding: 10px 10px;
+    margin: 12px 38%;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+input[type = "submit"]:hover{
+  background: #2ecc71;
+}
+.topadmin{
+
+  text-decoration: none;
+  color: #059862;
+  padding-top: 40px;
+}

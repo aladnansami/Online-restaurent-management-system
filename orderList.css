@@ -1,0 +1,12 @@
+table{
+  text-align: center;
+  border: 2px solid #3498db;
+  border-collapse: collapse;
+  width: 90%;
+  margin: auto;
+  margin-top: 10px;
+  color: white;
+}
+body{
+  background: #34495e;
+}

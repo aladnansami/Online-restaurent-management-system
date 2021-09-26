@@ -1,0 +1,30 @@
+.showCart{
+background: url(images\home-img-3.png);
+}
+
+.center {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+   border-collapse: collapse;
+}
+input[type ="submit"]{
+  border:0;
+  background: red;
+  display: block;
+  margin: 20px auto;
+  text-align: center;
+  border: 2px solid white;
+  padding: 10px 30px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+}
+input[type = "submit"]:hover{
+  background: #2ecc71;
+}
+tr{
+  text-align: center;
+}

@@ -1,0 +1,26 @@
+.body{
+  background: #34495e;
+}
+.item12{
+  margin-left: 30px;
+}
+.item12 input[type="submit"]{
+  border:0;
+  background:red;
+  display: block;
+font-family: sans-serif;
+  text-align: center;
+  border: 2px solid #2ecc71;
+  padding: 10px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+  margin-left: 20px;
+  margin-bottom: 10px;
+}
+.item12 input[type="submit"]:hover{
+  background: #2ecc71;
+  color: white;
+}

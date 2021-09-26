@@ -1,0 +1,36 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: monospace;
+  font-size: 18px;
+
+  background: url(images\signup.jpg);
+  background-repeat: no-repeat;
+  background: #34495e;
+
+}
+.item2{
+  margin-left:34%;
+}
+a.change1{
+  color: white;
+  white-space: nowrap;
+ text-decoration: none;
+ margin: 20px 20px;
+}
+input[type = "submit"]{
+  background: red;
+  border: 1px solid white;
+  padding: 7px 20px;
+    margin: 7px 40px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  font-weight: bold;
+  font-size: 15px;
+  cursor: pointer;
+}
+input[type = "submit"]:hover{
+  background: #2ecc71;
+}

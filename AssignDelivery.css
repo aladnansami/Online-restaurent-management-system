@@ -1,0 +1,24 @@
+.section{
+  margin-left: 42%;
+}
+.asnbt {
+  margin-left: 16%;
+}
+.asnbt input[type = "submit"]{
+  border:0;
+  background: red;
+  display: block;
+  text-align: center;
+  border: 2px solid #2ecc71;
+  padding: 10px 30px;
+  outline: none;
+  color: white;
+  border-radius: 24px;
+  transition: 0.25s;
+  cursor: pointer;
+  font-weight: bold;
+  margin-left: -15%;
+}
+.asnbt input[type = "submit"]:hover{
+  background: #2ecc71;
+}

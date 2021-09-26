@@ -1,0 +1,18 @@
+body{
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+     background: #34495e;
+}
+table{
+  margin: auto;
+  width: 80%;
+  text-align: center;
+  border-collapse: collapse;
+    border: 3px solid #3498db;
+    color: white;
+}
+h1{
+  text-align: center;
+  color: white;
+}
