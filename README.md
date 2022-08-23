@@ -8,3 +8,10 @@ https://github.com/aladnansami/Online-restaurent-management-system/blob/main/Rep
 
 ## Presentation File
 https://github.com/aladnansami/Online-restaurent-management-system/blob/main/webtechproject.pptx
+
+
+# Languages 
+HTML<br>
+CSS <br>
+PHP <br>
+Java-Script 
